@@ -1,5 +1,4 @@
 package eth
-
 import (
 	"context"
 
